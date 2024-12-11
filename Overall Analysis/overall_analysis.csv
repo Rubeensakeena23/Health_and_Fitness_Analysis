@@ -1,0 +1,4 @@
+activity_category,total_days,avg_resting_heart_rate,avg_sleep_hours,avg_exercise_minutes,avg_active_energy,avg_step_count
+Active,130,72.31,5.96,161.21,868.15,11195.81
+Moderate,134,71.62,6.85,89.41,547.53,10063.99
+Sedentary,79,68.7,5.54,54.78,368.5,7276.34
